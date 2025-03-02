@@ -33,7 +33,7 @@ export function Footer() {
                 <span className="sr-only">Email</span>
               </Link>
             </div>
-            <p className="text-sm text-muted-foreground">© {new Date().getFullYear()} John Doe. All rights reserved.</p>
+            <p className="text-sm text-muted-foreground">© {new Date().getFullYear()} Sayujya Tiwari. All rights reserved.</p>
           </div>
         </div>
       </div>
